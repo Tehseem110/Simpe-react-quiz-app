@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import boo from '../src/boo.png';
-import hurray from '../src/hurray.gif';
+import boo from '../src/boo.gif';
+import hurray from '../src/yeah.gif';
 import cup from '../src/cup2.png';
 import low from '../src/low.jpg';
 import average from '../src/average.jpg';
